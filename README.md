@@ -1,8 +1,8 @@
 OPENAI GYM TAXI V3 ENVIRONMENT
 
-![image](https://github.com/tekgulburak/Q-learning-taxi-v3-/assets/108903426/813ab20c-e1ee-49ee-b1ca-27f6e403edb6)
-
 This environment is part of the Toy Text environments which contains general information about the environment.
+
+![image](https://github.com/tekgulburak/Q-learning-taxi-v3-/assets/108903426/813ab20c-e1ee-49ee-b1ca-27f6e403edb6)
 
 ![image](https://github.com/tekgulburak/Q-learning-taxi-v3-/assets/108903426/6b8a4c0d-59c3-4a0c-9650-fe770e3a1cb7)
 
