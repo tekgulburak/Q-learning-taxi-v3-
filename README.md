@@ -1,18 +1,11 @@
 OPENAI GYM TAXI V3 ENVIRONMENT
+
 ![image](https://github.com/tekgulburak/Q-learning-taxi-v3-/assets/108903426/813ab20c-e1ee-49ee-b1ca-27f6e403edb6)
+
 This environment is part of the Toy Text environments which contains general information about the environment.
 
-Action Space
+![image](https://github.com/tekgulburak/Q-learning-taxi-v3-/assets/108903426/6b8a4c0d-59c3-4a0c-9650-fe770e3a1cb7)
 
-Discrete(6)
-
-Observation Space
-
-Discrete(500)
-
-import
-
-gymnasium.make("Taxi-v3")
 
 The Taxi Problem involves navigating to passengers in a grid world, picking them up and dropping them off at one of four locations.
 
